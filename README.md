@@ -1,3 +1,3 @@
 # Hello
 this is new
-raja
+raja run
